@@ -1,0 +1,25 @@
+text;intent
+oi;welcome
+Oi;welcome
+OI;welcome
+ola;welcome
+bom dia;good_morning
+BOM DIA;good_morning
+Bom dia pessoal;good_morning
+gostaria de falar com o suporte;attendance_support
+poderia me transferir para o suporte;attendance_support
+quero falar com o suporte;attendance_support
+suporte;attendance_support
+gostaria de falar com o financeiro;attendance_financeiro
+poderia me transferir para o financeiro;attendance_financeiro
+minha fatura está atrasada;attendance_financeiro
+pagar fatura atrasada;attendance_financeiro
+pagamento de atrasado;attendance_financeiro
+download de boleto;baixar_boleto
+nao recebi o boleto;baixar_boleto
+segunda via de boleto;baixar_boleto
+2 via de boleto;baixar_boleto
+qual telefone do suporte;information
+qual telefone do financeiro;information
+qual telefone do comercial;information
+qual telefone do atendimento;information
